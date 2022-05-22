@@ -60,7 +60,7 @@ h1{
   
   li a, .dropbtn {
     display: inline-block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 45px 60px;
     text-decoration: none;
@@ -173,6 +173,8 @@ h1{
     width: 100%;
   
   }
+
+
 }
 
 
@@ -196,19 +198,3 @@ div {
 img {
   border-radius: 20px;
 }
-
-
-
-
-
-
-
-
-
- 
-  
- 
-    
-
-
-  
